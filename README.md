@@ -1,2 +1,2 @@
 # Exercicios_de_fixa
-Pull request teste
+Aqui os exercicios inicias de fixação estão com funções
