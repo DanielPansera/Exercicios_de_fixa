@@ -1,0 +1,17 @@
+#corpo{
+    background-color: aquamarine;
+}
+.rodape{
+    font-size: large;
+    background-color: antiquewhite;
+    color: #000;
+    border: solid 2px;
+    border-radius: 25;
+    padding: 22;
+    width: 98%;
+}
+#quant{
+    color: red;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
